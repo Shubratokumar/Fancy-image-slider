@@ -22,5 +22,5 @@ setInterval(() =>{
     const imgUrl = images[imgIndex];
     imgAttribute.setAttribute('src', imgUrl)
     imgIndex++;
-}, 1000);
+}, 2000);
 // Image Slider done
